@@ -1,4 +1,5 @@
 🔒 Hide & Show Password using Eye Icon
+
 A simple web component that allows users to toggle password visibility using an eye icon. This feature improves user experience during login or signup by letting them view the password before submission.
 
 💡 Features:
